@@ -59,3 +59,4 @@ Jeśli chcesz porozmawiać o współpracy, moich projektach lub rekrutacji:
 
 Jeśli podobają Ci się projekty, śmiało zostaw ⭐ na repo — pomaga to w budowaniu widoczności w świecie Data & AI.﻿# ds_ai_portfolio
 
+
