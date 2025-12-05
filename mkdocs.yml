@@ -1,0 +1,25 @@
+site_name: Moje projekty – Data & AI Portfolio
+site_author: Rafał Król
+site_description: >-
+    Portfolio moich projektów z Data Science i AI
+
+theme:
+  name: material
+  palette:  
+    primary: light green
+  features:
+    - navigation.sections
+    - navigation.expand
+
+nav:
+  - Strona główna: index.md
+  - Projekty:
+      - Iris EDA: iris/index.md
+      - Olist EDA: Olist/index.md
+      - naszGPT: naszGPT/index.md
+      - VibeMatch: VibeMatch/index.md
+      - QuestApp: QuestApp/index.md
+      - find-friends-app: find-friends-app/index.md
+      - warehouse_app: warehouse_app/index.md
+      - audio-notes-ai-app: audio-notes-ai-app/index.md
+      - UHI: UHI/index.md
