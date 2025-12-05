@@ -3,6 +3,9 @@ site_author: Rafał Król
 site_description: >-
     Portfolio moich projektów z Data Science i AI
 
+repo_name: Baxterini/ds_ai_portfolio
+repo_url: https://github.com/Baxterini/ds_ai_portfolio
+
 theme:
   name: material
   palette:  

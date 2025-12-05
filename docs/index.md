@@ -1,4 +1,3 @@
-
 ![banner](img/banner.png)
 
 # Cześć, tu Rafał 👋
