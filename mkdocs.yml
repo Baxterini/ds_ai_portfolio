@@ -26,3 +26,4 @@ nav:
       - warehouse_app: warehouse_app/index.md
       - audio-notes-ai-app: audio-notes-ai-app/index.md
       - UHI: UHI/index.md
+      - cv_creator: cv_creator/index.md

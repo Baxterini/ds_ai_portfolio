@@ -17,5 +17,5 @@ Celem analizy jest zrozumienie zachowań klientów, jakości obsługi oraz klucz
 - Czas dostawy vs. deklarowany czas
 - Oceny zamówień i potencjalne przyczyny niezadowolenia
 
-📓 [Pobierz notebook](Olist_EDA.ipynb)    
+📓 <a href="Olist_EDA.ipynb" download>Pobierz notebook</a>   
 📄 [Pobierz raport PDF](Olist_EDA.pdf)

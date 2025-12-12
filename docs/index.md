@@ -31,9 +31,12 @@ Witaj w moim **portfolio Data & AI** – zbiorze analiz danych, projektów z kur
 
 - 🤖 **Eksperymenty z AI** – integracje z modelami językowymi, prototypy asystentów itp.
 
+- 🧾✨ **CV Creator** to aplikacja oparta na Pythonie, która generuje profesjonalne CV w formacie Markdown na podstawie strukturalnych danych z profilu. Z pomocą AI tworzony jest personalizowany wstęp, a wyniki mogą być eksportowane jako plik PDF.
+
 !!! info "Aktualne prace"
     Portfolio będzie aktualizowane na bieżąco wraz z kolejnymi projektami.
     Obecnie rozwijam m.in. projekt **Urban Heat Island (UHI)** — aplikację analizującą wyspy ciepła na podstawie danych satelitarnych i przetwarzania przestrzennego.
+
 
 ## 🔗 Repozytorium GitHub
 

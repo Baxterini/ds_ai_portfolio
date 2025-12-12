@@ -6,9 +6,14 @@ Zapraszamy do zapoznania się z projektem autorstwa Rafała, który przenosi nas
 
 Projekt ma na celu analizę klasycznego zbioru Iris – jednego z najpopularniejszych datasetów w świecie Data Science. Celem EDA było zrozumienie struktury danych, zależności między cechami oraz przygotowanie podstaw pod modele ML.
 
+<a href="iris_notebook.ipynb" class="md-button md-button--primary" download>
+📘 Pobierz notebook
+</a>  
 
-<a href="iris_notebook.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+_(Jeśli przeglądarka pokaże JSON: kliknij prawym przyciskiem na przycisk → „Zapisz link jako…”)_
+
 
 [▶️ Zobacz slajdy](iris_slides.html)
 
 📄 [Pobierz wersję PDF](iris_report.pdf)
+
