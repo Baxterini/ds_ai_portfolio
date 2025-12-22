@@ -27,3 +27,4 @@ nav:
       - audio-notes-ai-app: audio-notes-ai-app/index.md
       - UHI: UHI/index.md
       - cv_creator: cv_creator/index.md
+      - n8n_automation_image_reading: n8n_image/index.md 
