@@ -86,6 +86,7 @@ Stawiam na rozwój, praktykę i budowanie narzędzi, które działają i pomagaj
 - **2023** – start fascynacji AI i Pythonem  
 - **2024** – intensywna nauka Data Science, pierwsze EDA i aplikacje  
 - **2025** – budowanie portfolio, aplikacje AI, kurs agentów AI
+- **2026** – specjalizacja w AI/Data Science: agenci AI, Power BI, projekty produkcyjne (ML + explainability), budowa narzędzi dla biznesu i start kariery w branży
 
 
 

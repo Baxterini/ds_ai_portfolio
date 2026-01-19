@@ -3,14 +3,13 @@
 ## 🔗 Repozytorium GitHub
 
 Pełny kod aplikacji znajdziesz tutaj:  
-👉 **https://github.com/Baxterini/churn-prediction-shap**
-
-## 🚀 Live demo
-
-Zobacz działającą aplikację online (Streamlit Cloud):  
-👉 **https://churn-prediction-shap.streamlit.app/**
-
+👉 **[GitHub Repo](https://github.com/Baxterini/churn-prediction-shap)**  
+👉 **[Live demo](https://churn-prediction-shap.streamlit.app/)**
 ---
+![Widok główny aplikacji](/img/churn_1.png)
+![Wyjaśnienie predykcji SHAP](/img/churn_2.png)
+![Dane klienta](/img/churn_3.png)
+
 
 Churn (odejście klienta) to jeden z kluczowych problemów w sektorze bankowym i usługowym.  
 Utrzymanie klienta bywa tańsze niż pozyskanie nowego, a szybka reakcja może realnie ograniczyć straty.
